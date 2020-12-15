@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natrix Digital", "Natrix Digital.csproj", "{7059144D-54A1-4804-8199-18C24D9066AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7059144D-54A1-4804-8199-18C24D9066AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7059144D-54A1-4804-8199-18C24D9066AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7059144D-54A1-4804-8199-18C24D9066AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7059144D-54A1-4804-8199-18C24D9066AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277E7B25-66FB-454A-AA0D-FF72CF96AC6A}
+	EndGlobalSection
+EndGlobal
