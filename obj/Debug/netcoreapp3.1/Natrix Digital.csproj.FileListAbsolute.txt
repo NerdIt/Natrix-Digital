@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.exe
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.deps.json
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.runtimeconfig.json
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.dll
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\bin\Debug\netcoreapp3.1\Natrix Digital.pdb
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.AssemblyInfo.cs
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.dll
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.pdb
+C:\Users\admin\source\repos\Natrix Digital\Natrix-Digital\obj\Debug\netcoreapp3.1\Natrix Digital.genruntimeconfig.cache
